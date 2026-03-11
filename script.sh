@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hi, this is Jainandan.........."
+echo "Hi, this ."
