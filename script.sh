@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hi this is jainandan"
+echo "welcome to github"
